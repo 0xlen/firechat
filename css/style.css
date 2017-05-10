@@ -9,6 +9,8 @@ body {
 
 ul#messageList {
     list-style: none;
+    overflow-y: auto;
+    height: 50vh;
 }
 
 img#userPhoto {
